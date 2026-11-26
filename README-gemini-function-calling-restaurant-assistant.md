@@ -1,6 +1,6 @@
 # Gemini Function Calling – Restaurant Assistant
 
-Project sederhana yang menggunakan **Google Gemini Function Calling** untuk membuat asisten restoran. Asisten menerima pesanan pelanggan, mengambil daftar menu dan harga melalui fungsi Python, lalu menghitung total pembayaran dan menampilkan rincian pesanan dalam Rupiah.
+**Google Gemini Function Calling** untuk membuat asisten restoran. Asisten menerima pesanan pelanggan, mengambil daftar menu dan harga melalui fungsi Python, lalu menghitung total pembayaran dan menampilkan rincian pesanan dalam Rupiah.
 
 ## Fitur
 
