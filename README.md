@@ -1,1 +1,0 @@
-# gemini-function-calling-restaurant-assistant
